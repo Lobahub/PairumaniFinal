@@ -1,0 +1,7 @@
+{
+  "name": "pairumani",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
